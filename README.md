@@ -8,14 +8,14 @@
 Future Applications: Modular design and continuous testing will remain core tactics in my future work, ensuring flexibility and scalability for any software project.
 
 
-##🔧 How Do I Approach Developing Programs?
+## 🔧 How Do I Approach Developing Programs?
 - Strategy: Program development is an iterative and modular process. I start by understanding requirements, then build, test, and refine incrementally.
 New Development Strategies: While working on my 3D scene, I explored transformations (scaling, rotation, and texture mapping) and optimized the reuse of code components.
 - Iteration: Iteration was critical—each milestone allowed me to identify areas for improvement, integrate new ideas, and enhance code functionality.
 - Evolution: My coding approach has evolved to prioritize clean, maintainable, and well-documented code, ensuring scalability and ease of collaboration.
 
 
-##🚀 How Can Computer Science Help Me Reach My Goals?
+## 🚀 How Can Computer Science Help Me Reach My Goals?
 - Empowerment: Computer science equips me with the tools to solve problems creatively and efficiently, aligning perfectly with my personal and professional goals.
 Educational Pathway: Skills in computational graphics deepen my understanding of geometry, rendering, and transformations, laying a foundation for advanced studies in areas like virtual reality or machine learning.
 Professional Pathway: The ability to create interactive and visually engaging software opens opportunities in tech-driven industries like gaming, simulation, or data visualization.
