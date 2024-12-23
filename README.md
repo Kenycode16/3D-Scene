@@ -1,7 +1,7 @@
 # 7-1_FinalProjectMilestones
 ![image](https://github.com/user-attachments/assets/fbec07b2-506b-4e86-8773-0b70b5841ccc)
 
-🔍 How Do I Approach Designing Software?
+## 🔍 How Do I Approach Designing Software?
 Overview: Designing software is a structured process that starts with understanding user needs and breaking down the problem into smaller components.
 New Skills: My work on the project helped me improve at balancing technical constraints with user-centered design. Computational graphics were especially useful in creating engaging and interactive designs.
 Design Process: I followed a process of requirement gathering, creating prototypes, and iterative refinement. Feedback loops played a key role in ensuring the design met the project objectives.
