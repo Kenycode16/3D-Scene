@@ -1,8 +1,38 @@
 # 7-1_FinalProjectMilestones
 ![image](https://github.com/user-attachments/assets/fbec07b2-506b-4e86-8773-0b70b5841ccc)
 
-Approaching software design often begins with understanding both your end goals and the constraints you must work within. By clearly defining your problem space, you can determine the most effective architectural patterns, such as Model View Controller or Client Server, and ensure you have a roadmap that aligns with the features you wish to implement. In projects like creating a 3D scene, you may develop new design skills, such as user centered asset organization, consistency of visual elements, and layering complexity in a way that feels natural and intuitive. A straightforward process of research, planning, prototyping, refinement, and testing helps maintain focus and quality. These same tactics, including meticulous planning, thoughtful iteration, and structured feedback loops, can be applied in any future venture, from user interface work to large scale software projects.
 
-When it comes to program development, starting with well defined functional requirements allows you to choose appropriate data structures, coding standards, and frameworks. While working on your 3D scene, you might have embraced strategies like performance profiling, version control, and clearly naming assets and scripts for easier management. Iteration plays a key role here because continuous prototyping and testing allow you to integrate feedback, refine system performance, and verify alignment with initial objectives. Over multiple milestones, your coding approach typically becomes more modular, maintainable, and aligned with best practices as you balance experimentation with robust, optimized solutions.
+How do I approach designing software?
+I begin by identifying clear objectives and understanding any constraints that might influence the final solution. This helps me decide on design methodologies like Model View Controller or an iterative, user-centered framework.
 
-Computer science, at its core, equips you with problem solving skills that can extend across many fields, whether you plan to pursue research, industry roles, or creative projects. In particular, computational graphics and visualizations expand your knowledge of geometry, algorithmic efficiency, and visual storytelling, which can significantly enhance educational pursuits by providing new ways to present complex data and ideas. These same skills also have professional value, as creating appealing visuals, building interactive simulations, and combining technical expertise with artistic sense can distinguish you in areas such as game development, architectural rendering, or VR and AR design.
+What new design skills has your work on the project helped you to craft?
+During this project, I developed an eye for consistent aesthetics, improved my ability to organize assets and components effectively, and enhanced my capacity to adapt the user experience based on feedback.
+
+What design process did you follow for your project work?
+I followed a process that involved defining requirements, creating quick prototypes, evaluating them, and refining features step by step.
+
+How could tactics from your design approach be applied in future work?
+These same tactics—such as clearly documenting goals, iterating on prototypes, and gathering feedback early—can be replicated on future projects to keep development focused and user friendly.
+
+
+How do I approach developing programs?
+My approach to program development involves breaking down functionality into smaller tasks, choosing suitable data structures and algorithms, and using clear coding standards.
+
+What new development strategies did you use while working on your 3D scene?
+I introduced strategic version control to track changes, maintained systematic organization of textures and models, and used performance checks to ensure smooth rendering.
+
+How did iteration factor into your development?
+Iteration played a central role: I would implement a feature, assess its effectiveness, and then refine both the feature and the supporting code. This loop of continuous feedback helped me align the work with my initial vision.
+
+How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+Over multiple milestones, my coding style shifted from unstructured experiments to a more deliberate, modular, and maintainable approach. I balanced creativity with best practices, ensuring the final product was both functional and polished.
+
+
+How can computer science help me in reaching my goals?
+Computer science provides problem-solving frameworks and technical knowledge that can be applied to virtually any field, helping me efficiently address challenges and build innovative solutions.
+
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+Through computational graphics, I have learned about geometry, rendering pipelines, and efficient data handling, which are invaluable when presenting complex information or demonstrating research findings in an educational setting.
+
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+Professionally, these skills allow me to create polished, interactive environments and simulations that can communicate ideas more effectively, whether in game development, architectural visualization, or other tech-focused careers.
